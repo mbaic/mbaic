@@ -48,7 +48,7 @@
 ### 🧱 ERP Platform
 
 [![Dynamics 365 Business Central](https://img.shields.io/badge/Dynamics_365_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/)
-[![PrintVis](https://img.shields.io/badge/PrintVis-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)](https://printvis.github.io/documentation/)
+[![PrintVis](https://img.shields.io/badge/PrintVis-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)](https://printvis.com/)
 [![Dynamics NAV](https://img.shields.io/badge/Dynamics_NAV_(Legacy)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/)
 
 ### 💻 Languages & Development
@@ -58,6 +58,7 @@
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
 
 ### ⚙️ DevOps & CI/CD
 
