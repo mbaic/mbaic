@@ -47,60 +47,59 @@
 
 ### 🧱 ERP Platform
 
-![Dynamics 365 Business Central](https://img.shields.io/badge/Dynamics_365_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![PrintVis](https://img.shields.io/badge/PrintVis-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)
-![Dynamics NAV](https://img.shields.io/badge/Dynamics_NAV_(Legacy)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+[![Dynamics 365 Business Central](https://img.shields.io/badge/Dynamics_365_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/)
+[![PrintVis](https://img.shields.io/badge/PrintVis-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)](https://printvis.github.io/documentation/)
+[![Dynamics NAV](https://img.shields.io/badge/Dynamics_NAV_(Legacy)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/)
 
 ### 💻 Languages & Development
 
-![AL](https://img.shields.io/badge/AL-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+[![AL](https://img.shields.io/badge/AL-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)
+[![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/programming-in-c-al)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ### ⚙️ DevOps & CI/CD
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AL-Go](https://img.shields.io/badge/AL--Go_CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/BC_Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![AL-Go](https://img.shields.io/badge/AL--Go_CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/microsoft/AL-Go)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![BC Docker Containers](https://img.shields.io/badge/BC_Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/microsoft/navcontainerhelper)
 
 ### ☁️ Cloud & Integration
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![REST/OData](https://img.shields.io/badge/REST%2FOData_APIs-009688?style=for-the-badge&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks_%26_Web_Services-FF6B35?style=for-the-badge&logoColor=white)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![REST/OData](https://img.shields.io/badge/REST%2FOData_APIs-009688?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/webservices/odata-web-services)
+[![Webhooks](https://img.shields.io/badge/Webhooks_%26_Web_Services-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/webservices/web-services)
 
 ### 🧩 Power Platform
 
-![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
-![Power Pages](https://img.shields.io/badge/Power_Pages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+[![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/)
+[![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)](https://learn.microsoft.com/en-us/power-automate/)
+[![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)](https://learn.microsoft.com/en-us/power-apps/)
+[![Power Pages](https://img.shields.io/badge/Power_Pages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/power-pages/)
 
 ### 🤖 AI & Agent Stack
 
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![BC Native Agents](https://img.shields.io/badge/BC_Native_Agents-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-FF6B35?style=for-the-badge&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cowork](https://img.shields.io/badge/Cowork_(Claude)-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+[![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
+[![BC Native Agents](https://img.shields.io/badge/BC_Native_Agents-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/copilot-overview)
+[![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/configure-mcp-server)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
+[![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/download)
+[![Cowork](https://img.shields.io/badge/Cowork_(Claude)-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 
 ---
 
 ## 📚 Certifications
 
-![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
+[![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/dynamics365-business-central-developer-associate/)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
 
 **In Progress:**
 
-![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot_AI_Development-181717?style=for-the-badge&logo=github&logoColor=white)
-![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Architect-FF6B35?style=for-the-badge&logoColor=white)
+[![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot_AI_Development-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/)
+[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Architect-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/)
 
 ---
 
