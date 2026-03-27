@@ -104,18 +104,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Milos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbaic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaic&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📞 Contact
 
 | | |
