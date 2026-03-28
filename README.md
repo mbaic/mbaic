@@ -83,7 +83,7 @@
 
 [![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/dynamics365-business-central-developer-associate/)
 [![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
-[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
+[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/en-us/users/milosbaic-4821/credentials/certification/power-platform-fundamentals?source=docs&tab=credentials-tab)
 
 **In Progress:**
 
