@@ -13,7 +13,7 @@
 
 ---
 
-20 years designing and delivering ERP solutions on Microsoft Dynamics NAV and D365 Business Central, with deep specialization in **PrintVis** and a proven track record architecting solutions across Nordic and North American markets — on-time, on-budget, zero-downtime cutovers. Currently pioneering AI-driven automation across the full Microsoft agent stack: native Business Central agents, Copilot Studio agents, and Model Context Protocol (MCP) connectivity — helping customers evolve from traditional ERP workflows to intelligent, automated operations.
+20 years designing and delivering ERP solutions on Microsoft Dynamics NAV and D365 Business Central, with deep specialization in **PrintVis** and a proven track record architecting solutions across Nordic and North American markets — on-time, on-budget. Currently pioneering AI-driven automation across the full Microsoft agent stack: native Business Central agents, Copilot Studio agents, Skills and Model Context Protocol (MCP) connectivity — helping customers evolve from traditional ERP workflows to intelligent, automated operations.
 
 > [!TIP]
 > If you're working at the intersection of Business Central, PrintVis, and AI-driven automation — or building something interesting in this space — I'm always open to connecting with the right people. Find me on [LinkedIn](https://www.linkedin.com/in/milosbaic).
@@ -22,11 +22,10 @@
 
 ## 🔭 Current Focus
 
-- Architecting and delivering **Dynamics 365 Business Central** and **PrintVis** solutions for 10+ active customers across Sweden and the USA
-- Building clean, maintainable **Per Tenant Extensions (PTEs)** in AL with AL-Go CI/CD pipelines aligned to Microsoft release waves
-- Integrating Business Central with **Power Platform** — Dataverse virtual tables, Canvas Apps, Power Automate cloud flows, and Power Pages customer/vendor portals
-- Driving AI adoption through **native BC agents**, **Copilot Studio agents**, and **MCP server connectivity** for intelligent process automation
-- Currently in training: `GH-300` GitHub Copilot AI-assisted development · `AB-100` Agentic AI Business Solutions Architect
+- 🏗️ Architecting and delivering **D365 Business Central** and **PrintVis** solutions across Sweden and the USA
+- 🔗 Integrating Business Central with **Power Platform** — Dataverse, Canvas Apps, Power Automate, Power Pages
+- 🤖 Pioneering **native BC agents**, **Copilot Studio agents**, and **MCP server connectivity**
+- ⚙️ Building clean **AL** Per Tenant Extensions with **AL-Go CI/CD** pipelines
 
 ---
 
@@ -53,41 +52,30 @@
 
 ### 💻 Languages & Development
 
+[![English](https://img.shields.io/badge/Prompt%20Engineering-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)
 [![AL](https://img.shields.io/badge/AL-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)
 [![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/programming-in-c-al)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
 
 ### ⚙️ DevOps & CI/CD
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![AL-Go](https://img.shields.io/badge/AL--Go_CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/microsoft/AL-Go)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
 [![BC Docker Containers](https://img.shields.io/badge/BC_Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/microsoft/navcontainerhelper)
 
-### ☁️ Cloud & Integration
+### ☁️ Cloud & Integration | 🧩 Power Platform
 
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![REST/OData](https://img.shields.io/badge/REST%2FOData_APIs-009688?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/webservices/odata-web-services)
-[![Webhooks](https://img.shields.io/badge/Webhooks_%26_Web_Services-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/webservices/web-services)
-
-### 🧩 Power Platform
-
-[![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/)
-[![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)](https://learn.microsoft.com/en-us/power-automate/)
-[![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)](https://learn.microsoft.com/en-us/power-apps/)
-[![Power Pages](https://img.shields.io/badge/Power_Pages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/power-pages/)
+[![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/power-platform/)
 
 ### 🤖 AI & Agent Stack
 
 [![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
 [![BC Native Agents](https://img.shields.io/badge/BC_Native_Agents-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/copilot-overview)
 [![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/configure-mcp-server)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
-[![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/download)
-[![Cowork](https://img.shields.io/badge/Cowork_(Claude)-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Claude Desktop / Cowork](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/download)
 
 ---
 
@@ -99,8 +87,8 @@
 
 **In Progress:**
 
-[![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot_AI_Development-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/)
-[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Architect-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/)
+[![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/)
+[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/)
 
 ---
 
