@@ -52,11 +52,11 @@
 
 ### 💻 Languages & Development
 
-[![English](https://img.shields.io/badge/Prompt%20Engineering-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)
-[![AL](https://img.shields.io/badge/AL-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)
-[![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/programming-in-c-al)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)
+[![AL](https://img.shields.io/badge/AL-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)
+[![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/programming-in-c-al)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
 
 ### ⚙️ DevOps & CI/CD
@@ -74,7 +74,7 @@
 
 [![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
 [![BC Native Agents](https://img.shields.io/badge/BC_Native_Agents-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/copilot-overview)
-[![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/configure-mcp-server)
+[![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6D28D9?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/configure-mcp-server)
 [![Claude Desktop / Cowork](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/download)
 
 ---
@@ -82,13 +82,13 @@
 ## 📚 Certifications
 
 [![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/dynamics365-business-central-developer-associate/)
-[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 [![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
 
 **In Progress:**
 
 [![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/)
-[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-FF6B35?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/)
+[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-6D28D9?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/)
 
 ---
 
