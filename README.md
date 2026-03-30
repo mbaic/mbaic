@@ -52,7 +52,7 @@
 
 ### 💻 Languages & Development
 
-[![English](https://img.shields.io/badge/Prompt%20Engineering-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)
+[![English](https://img.shields.io/badge/English-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](ht…
 [![AL](https://img.shields.io/badge/AL-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)
 [![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/programming-in-c-al)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
