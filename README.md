@@ -30,7 +30,7 @@
 
 ## 🚀 Featured Repositories
 
-> Practical building blocks for Business Central developers, teams, and partners.
+> Tools and experiments from my BC and AI development work.
 
 | Collection | Description | Topics |
 |---|---|---|
