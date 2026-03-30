@@ -96,7 +96,6 @@
 
 | | |
 |---|---|
-| 📧 **Email** | [milos.baic@outlook.com](mailto:milos.baic@outlook.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/milosbaic](https://www.linkedin.com/in/milosbaic) |
 | 📍 **Location** | Gothenburg, Sweden (UTC+1/+2) |
 
