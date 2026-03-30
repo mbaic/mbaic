@@ -32,12 +32,11 @@
 
 > Practical building blocks for Business Central developers, teams, and partners.
 
-| Repository | Description | Stars | Forks |
-|---|---|:---:|:---:|
-| [**al-vsc-copilot-prompts**](https://github.com/mbaic/al-vsc-copilot-prompts) | VS Code prompt templates for AL development, designed for GitHub Copilot agents — streamlines the most common AL development tasks | ![Stars](https://img.shields.io/github/stars/mbaic/al-vsc-copilot-prompts?style=flat-square&color=gold) | ![Forks](https://img.shields.io/github/forks/mbaic/al-vsc-copilot-prompts?style=flat-square) |
-| [**al-vsc-instructions**](https://github.com/mbaic/al-vsc-instructions) | Minimal AL development instructions for Business Central PTEs — starter guidelines on clean code, performance, and error handling that grow with your team | ![Stars](https://img.shields.io/github/stars/mbaic/al-vsc-instructions?style=flat-square&color=gold) | ![Forks](https://img.shields.io/github/forks/mbaic/al-vsc-instructions?style=flat-square) |
-| [**al-ps-container-scripts**](https://github.com/mbaic/al-ps-container-scripts) | Interactive PowerShell tool for managing Business Central Docker containers locally — simplifies environment setup and maintenance | ![Stars](https://img.shields.io/github/stars/mbaic/al-ps-container-scripts?style=flat-square&color=gold) | ![Forks](https://img.shields.io/github/forks/mbaic/al-ps-container-scripts?style=flat-square) |
-| [**al-codespace-ms-rewards**](https://github.com/mbaic/al-codespace-ms-rewards) | Ready-to-fork BC PTE for testing in a BC Online sandbox via GitHub Codespaces — no local VS Code, no Docker, no Windows required | ![Stars](https://img.shields.io/github/stars/mbaic/al-codespace-ms-rewards?style=flat-square&color=gold) | ![Forks](https://img.shields.io/github/forks/mbaic/al-codespace-ms-rewards?style=flat-square) |
+| Collection | Description | Topics |
+|---|---|---|
+| [**AL Development Toolkit**](https://github.com/stars/mbaic/lists/bc-al-vsc-gh-copilot-toolkit) | VS Code and GitHub Copilot instructions, prompt templates, and skills for AL development in Business Central | `al` `copilot` `vscode` `business-central` |
+| [**BC AL Codespaces**](https://github.com/stars/mbaic/lists/bc-al-codespaces) | Ready-to-fork Business Central PTE templates for cloud-based development via GitHub Codespaces — no local tooling required | `codespaces` `al` `business-central` `cloud-dev` |
+| [**BC AL Automation**](https://github.com/stars/mbaic/lists/bc-al-automation) | PowerShell scripts and Docker tooling for Business Central AL development environment automation | `powershell` `docker` `automation` `business-central` |
 
 ---
 
