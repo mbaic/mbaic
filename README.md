@@ -34,7 +34,7 @@
 
 | Collection | Description | Topics |
 |---|---|---|
-| [**AL Development Toolkit**](https://github.com/stars/mbaic/lists/bc-al-vsc-gh-copilot-toolkit) | VS Code and GitHub Copilot instructions, prompt templates, and skills for AL development in Business Central | `al` `copilot` `vscode` `business-central` |
+| [**BC AL GH Copilot Toolkit**](https://github.com/stars/mbaic/lists/bc-al-vsc-gh-copilot-toolkit) | VS Code and GitHub Copilot instructions, prompt templates, and skills for AL development in Business Central | `al` `copilot` `vscode` `business-central` |
 | [**BC AL Codespaces**](https://github.com/stars/mbaic/lists/bc-al-codespaces) | Ready-to-fork Business Central PTE templates for cloud-based development via GitHub Codespaces — no local tooling required | `codespaces` `al` `business-central` `cloud-dev` |
 | [**BC AL Automation**](https://github.com/stars/mbaic/lists/bc-al-automation) | PowerShell scripts and Docker tooling for Business Central AL development environment automation | `powershell` `docker` `automation` `business-central` |
 
