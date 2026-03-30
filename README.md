@@ -5,7 +5,6 @@
 **Business Central Solution Architect & Developer · PrintVis Specialist · AI/Agent Pioneer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-milosbaic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milosbaic)
-[![Email](https://img.shields.io/badge/Email-milos.baic%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:milos.baic@outlook.com)
 [![Location](https://img.shields.io/badge/Gothenburg%2C_Sweden-%F0%9F%87%B8%F0%9F%87%AA-006AA7?style=for-the-badge)](https://www.google.com/maps/place/Gothenburg,+Sweden)
 ![Profile Views](https://komarev.com/ghpvc/?username=mbaic&style=for-the-badge&color=0078D4&label=Profile+Views)
 
