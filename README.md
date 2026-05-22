@@ -67,20 +67,40 @@ flowchart LR
 
 > Tools and experiments from my BC and AI development work.
 
-| Collection | Description | Topics |
-|---|---|---|
-| [**BC AL GH Copilot Toolkit**](https://github.com/stars/mbaic/lists/bc-al-vsc-gh-copilot-toolkit) | VS Code and GitHub Copilot instructions, prompt templates, and skills for AL development in Business Central | `al` `copilot` `vscode` `business-central` |
-| [**BC AL Codespaces**](https://github.com/stars/mbaic/lists/bc-al-codespaces) | Ready-to-fork Business Central PTE templates for cloud-based development via GitHub Codespaces — no local tooling required | `codespaces` `al` `business-central` `cloud-dev` |
-| [**BC AL Demos**](https://github.com/stars/mbaic/lists/bc-al-demos) | Business Central AL demo apps shared as quick-start templates — spin up a demo, test against new BC versions and integrations, or use as a foundation for rapid customizations | `al` `business-central` `demo` `sample` |
-| [**BC AL Automation**](https://github.com/stars/mbaic/lists/bc-al-automation) | PowerShell scripts and Docker tooling for Business Central AL development environment automation | `powershell` `docker` `automation` `business-central` |
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>🤖&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-vsc-gh-copilot-toolkit">BC AL GH Copilot Toolkit</a></b><br><br>
+VS Code and GitHub Copilot instructions, prompt templates, and skills for AL development in Business Central<br><br>
+<sub><code>al</code>&nbsp;&nbsp;<code>copilot</code>&nbsp;&nbsp;<code>vscode</code>&nbsp;&nbsp;<code>business-central</code></sub>
+</td>
+<td width="50%" valign="top">
+<b>☁️&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-codespaces">BC AL Codespaces</a></b><br><br>
+Ready-to-fork Business Central PTE templates for cloud-based development via GitHub Codespaces — no local tooling required<br><br>
+<sub><code>codespaces</code>&nbsp;&nbsp;<code>al</code>&nbsp;&nbsp;<code>business-central</code>&nbsp;&nbsp;<code>cloud-dev</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>🧪&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-demos">BC AL Demos</a></b><br><br>
+Business Central AL demo apps shared as quick-start templates — spin up a demo, test against new BC versions and integrations, or use as a foundation for rapid customizations<br><br>
+<sub><code>al</code>&nbsp;&nbsp;<code>business-central</code>&nbsp;&nbsp;<code>demo</code>&nbsp;&nbsp;<code>sample</code></sub>
+</td>
+<td width="50%" valign="top">
+<b>⚙️&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-automation">BC AL Automation</a></b><br><br>
+PowerShell scripts and Docker tooling for Business Central AL development environment automation<br><br>
+<sub><code>powershell</code>&nbsp;&nbsp;<code>docker</code>&nbsp;&nbsp;<code>automation</code>&nbsp;&nbsp;<code>business-central</code></sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 | Domain | Tools & Platforms |
 |:--|:--|
-| 🧱 **ERP Platform** | [![Dynamics 365 Business Central](https://img.shields.io/badge/Dynamics_365_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/) [![PrintVis](https://img.shields.io/badge/PrintVis-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)](https://printvis.com/) [![Dynamics NAV](https://img.shields.io/badge/Dynamics_NAV_(Legacy)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/) |
+| 🧱 **ERP Platform** | [![Dynamics 365 Business Central](https://img.shields.io/badge/Dynamics_365_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/) [![PrintVis](https://img.shields.io/badge/PrintVis-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)](https://printvis.com/) [![Dynamics NAV](https://img.shields.io/badge/Dynamics_NAV_(Legacy)-64748B?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/) |
 | 💻 **Languages & Development** | [![English](https://img.shields.io/badge/English-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/) [![AL](https://img.shields.io/badge/AL-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview) [![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/programming-in-c-al) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot) [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code) |
 | ☁️ **Cloud & Power Platform** | [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) [![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/power-platform/) |
 | ⚙️ **DevOps & CI/CD** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![AL-Go](https://img.shields.io/badge/AL--Go_CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/microsoft/AL-Go) [![BC Docker Containers](https://img.shields.io/badge/BC_Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/microsoft/navcontainerhelper) |
@@ -92,7 +112,7 @@ flowchart LR
 
 | 🎓 Earned | 🎯 In Progress |
 |:--:|:--:|
-| [![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/8A833F6170571F2C?sharingId=C8589E30A1CD0917)<br>[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/BF866A830E196562?sharingId=C8589E30A1CD0917)<br>[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/410F8841D72911CB?sharingId=C8589E30A1CD0917) | [![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/)<br>[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-6D28D9?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/) |
+| [![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/8A833F6170571F2C?sharingId=C8589E30A1CD0917)<br>[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/BF866A830E196562?sharingId=C8589E30A1CD0917)<br>[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/410F8841D72911CB?sharingId=C8589E30A1CD0917) | [![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/)<br>[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-6D28D9?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/) |
 
 ---
 
