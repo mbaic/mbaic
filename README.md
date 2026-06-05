@@ -71,7 +71,7 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 <b>🤖&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-vsc-gh-copilot-toolkit">BC AL GH Copilot Toolkit</a></b><br><br>
-VS Code and GitHub Copilot instructions, prompt templates, and skills for AL development in Business Central<br><br>
+VS Code and GitHub Copilot extensions, CLI plug-ins, instructions, prompt templates, and skills for AL development in Business Central<br><br>
 <sub><code>al</code>&nbsp;&nbsp;<code>copilot</code>&nbsp;&nbsp;<code>vscode</code>&nbsp;&nbsp;<code>business-central</code></sub>
 </td>
 <td width="50%" valign="top">
