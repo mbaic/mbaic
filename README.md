@@ -2,11 +2,10 @@
 
 # Milos Baic
 
-**Business Central Solution Architect & Developer · PrintVis Specialist · AI/Agent Pioneer**
+**Business Central Solution Architect & Developer · PrintVis Specialist · AI Agent Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-milosbaic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milosbaic)
 [![Location](https://img.shields.io/badge/Gothenburg%2C_Sweden-%F0%9F%87%B8%F0%9F%87%AA-006AA7?style=for-the-badge)](https://www.google.com/maps/place/Gothenburg,+Sweden)
-![Profile Views](https://komarev.com/ghpvc/?username=mbaic&style=for-the-badge&color=0078D4&label=Profile+Views)
 
 [**Focus**](#-current-focus) · [**Repositories**](#-featured-repositories) · [**Tech Stack**](#-tech-stack) · [**Certifications**](#-certifications) · [**Contact**](#-contact)
 
@@ -14,7 +13,7 @@
 
 ---
 
-20 years designing and delivering ERP solutions on Microsoft Dynamics NAV and D365 Business Central, with deep specialization in **PrintVis** and a proven track record architecting solutions across Nordic and North American markets — on-time, on-budget. Currently pioneering AI-driven automation across the full Microsoft agent stack: native Business Central agents, Copilot Studio agents, Skills and Model Context Protocol (MCP) connectivity — helping customers evolve from traditional ERP workflows to intelligent, automated operations.
+20 years designing and delivering ERP solutions on Microsoft Dynamics NAV and D365 Business Central, with deep specialization in **PrintVis** and a delivery record spanning Nordic and North American markets. Currently building AI-driven automation across the Microsoft agent stack — native Business Central agents, Copilot Studio agents, agent skills, and Model Context Protocol (MCP) connectivity — helping customers evolve from traditional ERP workflows to intelligent, automated operations.
 
 > [!TIP]
 > If you're working at the intersection of Business Central, PrintVis, and AI-driven automation — or building something interesting in this space — I'm always open to connecting with the right people. Find me on [LinkedIn](https://www.linkedin.com/in/milosbaic).
@@ -58,7 +57,7 @@ flowchart LR
 
 - 🏗️ Architecting and delivering **D365 Business Central** and **PrintVis** solutions across Sweden and the USA
 - 🔗 Integrating Business Central with **Power Platform** — Dataverse, Canvas Apps, Power Automate, Power Pages
-- 🤖 Pioneering **native BC agents**, **Copilot Studio agents**, and **MCP server connectivity**
+- 🤖 Developing **native BC agents**, **Copilot Studio agents**, and **MCP server connectivity**
 - ⚙️ Building clean **AL** Per Tenant Extensions with **AL-Go CI/CD** pipelines
 
 ---
@@ -71,25 +70,25 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 <b>🤖&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-vsc-gh-copilot-toolkit">Agentic Coding Toolkits</a></b><br><br>
-VS Code and GitHub Copilot extensions, CLI plug-ins, instructions, prompt templates, and skills for AL development in Business Central<br><br>
-<sub><code>al</code>&nbsp;&nbsp;<code>copilot</code>&nbsp;&nbsp;<code>vscode</code>&nbsp;&nbsp;<code>cli-plug-ins</code>&nbsp;&nbsp;<code>business-central</code></sub>
+VS Code extensions plus GitHub Copilot and Claude Code plug-ins — prompt templates, instructions, skills, and autonomous agents for AL development in Business Central<br><br>
+<sub><code>al</code>&nbsp;&nbsp;<code>copilot</code>&nbsp;&nbsp;<code>claude-code</code>&nbsp;&nbsp;<code>vscode</code>&nbsp;&nbsp;<code>business-central</code></sub>
 </td>
 <td width="50%" valign="top">
 <b>☁️&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-codespaces">BC AL Codespaces</a></b><br><br>
-Ready-to-fork Business Central PTE templates for cloud-based development via GitHub Codespaces — no local tooling required<br><br>
+Ready-to-fork Business Central PTE template for cloud development in GitHub Codespaces — publish straight to a BC Online sandbox, no local tooling required<br><br>
 <sub><code>codespaces</code>&nbsp;&nbsp;<code>al</code>&nbsp;&nbsp;<code>business-central</code>&nbsp;&nbsp;<code>cloud-dev</code></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <b>🧪&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-demos">BC AL Demos</a></b><br><br>
-Business Central AL demo apps shared as quick-start templates — spin up a demo, test against new BC versions and integrations, or use as a foundation for rapid customizations<br><br>
-<sub><code>al</code>&nbsp;&nbsp;<code>business-central</code>&nbsp;&nbsp;<code>demo</code>&nbsp;&nbsp;<code>sample</code></sub>
+Business Central AL sample apps demonstrating real-world extension patterns — main extension, automated test suite, and Contoso demo data — a practical reference for building and validating PTE solutions<br><br>
+<sub><code>al</code>&nbsp;&nbsp;<code>business-central</code>&nbsp;&nbsp;<code>samples</code>&nbsp;&nbsp;<code>testing</code></sub>
 </td>
 <td width="50%" valign="top">
 <b>⚙️&nbsp;&nbsp;<a href="https://github.com/stars/mbaic/lists/bc-al-automation">BC AL Automation</a></b><br><br>
-PowerShell scripts and Docker tooling for Business Central AL development environment automation<br><br>
-<sub><code>powershell</code>&nbsp;&nbsp;<code>docker</code>&nbsp;&nbsp;<code>automation</code>&nbsp;&nbsp;<code>business-central</code></sub>
+PowerShell tooling for managing local Business Central Docker containers, plus AL Workspace CLI demos for compiling and mapping multi-app workspaces without VS Code<br><br>
+<sub><code>powershell</code>&nbsp;&nbsp;<code>docker</code>&nbsp;&nbsp;<code>al-cli</code>&nbsp;&nbsp;<code>business-central</code></sub>
 </td>
 </tr>
 </table>
@@ -100,11 +99,11 @@ PowerShell scripts and Docker tooling for Business Central AL development enviro
 
 | Domain | Tools & Platforms |
 |:--|:--|
-| 🧱 **ERP Platform** | [![Dynamics 365 Business Central](https://img.shields.io/badge/Dynamics_365_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/) [![PrintVis](https://img.shields.io/badge/PrintVis-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)](https://printvis.com/) [![Dynamics NAV](https://img.shields.io/badge/Dynamics_NAV_(Legacy)-64748B?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/) |
-| 💻 **Languages & Development** | [![English](https://img.shields.io/badge/English-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/) [![AL](https://img.shields.io/badge/AL-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview) [![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics-nav/programming-in-c-al) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot) [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code) |
-| ☁️ **Cloud & Power Platform** | [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) [![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/power-platform/) |
+| 🧱 **ERP Platform** | [![Dynamics 365 Business Central](https://img.shields.io/badge/Dynamics_365_Business_Central-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/dynamics365/business-central/) [![PrintVis](https://img.shields.io/badge/PrintVis-1E3A5F?style=for-the-badge)](https://printvis.com/) [![Dynamics NAV](https://img.shields.io/badge/Dynamics_NAV_(Legacy)-64748B?style=for-the-badge)](https://learn.microsoft.com/en-us/dynamics-nav/) |
+| 💻 **Languages & Development** | [![English](https://img.shields.io/badge/English-00B7C3?style=for-the-badge)](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/) [![AL](https://img.shields.io/badge/AL-00B7C3?style=for-the-badge)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview) [![C/AL](https://img.shields.io/badge/C%2FAL_(Legacy_NAV)-00B7C3?style=for-the-badge)](https://learn.microsoft.com/en-us/dynamics-nav/programming-in-c-al) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/) [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot) [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/product/claude-code) |
+| ☁️ **Cloud & Power Platform** | [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge)](https://azure.microsoft.com/) [![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge)](https://learn.microsoft.com/en-us/power-platform/) |
 | ⚙️ **DevOps & CI/CD** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![AL-Go](https://img.shields.io/badge/AL--Go_CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/microsoft/AL-Go) [![BC Docker Containers](https://img.shields.io/badge/BC_Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/microsoft/navcontainerhelper) |
-| 🤖 **AI & Agent Stack** | [![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) [![BC Native Agents](https://img.shields.io/badge/BC_Native_Agents-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/copilot-overview) [![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6D28D9?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/configure-mcp-server) [![Claude Desktop / Cowork](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/download) |
+| 🤖 **AI & Agent Stack** | [![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) [![BC Native Agents](https://img.shields.io/badge/BC_Native_Agents-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/dynamics365/business-central/ai-in-bc) [![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6D28D9?style=for-the-badge)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/configure-mcp-server) [![Claude Desktop / Cowork](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.com/download) |
 
 ---
 
@@ -112,7 +111,7 @@ PowerShell scripts and Docker tooling for Business Central AL development enviro
 
 | 🎓 Earned | 🎯 In Progress |
 |:--:|:--:|
-| [![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/8A833F6170571F2C?sharingId=C8589E30A1CD0917)<br>[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/BF866A830E196562?sharingId=C8589E30A1CD0917)<br>[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/410F8841D72911CB?sharingId=C8589E30A1CD0917) | [![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/)<br>[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-6D28D9?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/) |
+| [![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-00B7C3?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/8A833F6170571F2C?sharingId=C8589E30A1CD0917)<br>[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/BF866A830E196562?sharingId=C8589E30A1CD0917)<br>[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/410F8841D72911CB?sharingId=C8589E30A1CD0917) | [![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/)<br>[![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-6D28D9?style=for-the-badge)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/) |
 
 ---
 
