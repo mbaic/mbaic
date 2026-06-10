@@ -4,7 +4,7 @@
 
 **Business Central Solution Architect & Developer · PrintVis Specialist · AI Agent Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-milosbaic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milosbaic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-milos_baic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milosbaic)
 [![Location](https://img.shields.io/badge/Gothenburg%2C_Sweden-%F0%9F%87%B8%F0%9F%87%AA-006AA7?style=for-the-badge)](https://www.google.com/maps/place/Gothenburg,+Sweden)
 
 [**Focus**](#-current-focus) · [**Repositories**](#-featured-repositories) · [**Tech Stack**](#-tech-stack) · [**Certifications**](#-certifications) · [**Contact**](#-contact)
@@ -111,7 +111,7 @@ PowerShell tooling for managing local Business Central Docker containers, plus A
 
 | 🎓 Earned | 🎯 In Progress |
 |:--:|:--:|
-| [![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-00B7C3?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/8A833F6170571F2C?sharingId=C8589E30A1CD0917)<br>[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/BF866A830E196562?sharingId=C8589E30A1CD0917)<br>[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/410F8841D72911CB?sharingId=C8589E30A1CD0917)<br>[![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/EF32D2D32A5FD88A?sharingId=C8589E30A1CD0917) | [![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-6D28D9?style=for-the-badge)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/) |
+| [![MB-820](https://img.shields.io/badge/MB--820-Business_Central_Developer_Associate-00B7C3?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/8A833F6170571F2C?sharingId=C8589E30A1CD0917)<br>[![GH-300](https://img.shields.io/badge/GH--300-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/EF32D2D32A5FD88A?sharingId=C8589E30A1CD0917)<br>[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/BF866A830E196562?sharingId=C8589E30A1CD0917)<br>[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/MilosBaic-4821/410F8841D72911CB?sharingId=C8589E30A1CD0917) | [![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect-6D28D9?style=for-the-badge)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/) |
 
 ---
 
@@ -119,7 +119,7 @@ PowerShell tooling for managing local Business Central Docker containers, plus A
 
 | | |
 |---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/milosbaic](https://www.linkedin.com/in/milosbaic) |
+| 💼 **LinkedIn** | [linkedin.com/in/milos_baic](https://www.linkedin.com/in/milosbaic) |
 | 📍 **Location** | Gothenburg, Sweden (UTC+1/+2) |
 
 ---
